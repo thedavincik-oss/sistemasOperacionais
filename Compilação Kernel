@@ -1,0 +1,17 @@
+Qual foi a versão do kernel que você compilou, e por que escolheu essa versão?
+
+R: kernel 6.0.7, devido a sua estabilidade.
+
+Que configuração você modificou no menuconfig? Por que fez essa modificação? O que espera que essa modificação altere no comportamento do sistema?
+
+R: Alterei o tipo de processador - agora está no Generic-x84-64.
+
+Durante a compilação você encontrou algum erro, advertência ou comportamento inesperado? Como resolveu ou o que faria para resolver?
+
+R: 
+
+Quais os riscos e benefícios de “rodar” um kernel compilado por você mesmo em comparação com usar o kernel padrão da distribuição?
+
+Em quais cenários você considera “vale a pena” compilar seu próprio kernel? Cite ao menos dois.
+
+Se o sistema não inicializar após a compilação/instalação do kernel, qual seria seu plano de contingência para recuperar o sistema?
